@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{990358A3-1C0D-4114-8595-8CA407EFDB9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveResizeRotate", "MoveResizeRotate\MoveResizeRotate.csproj", "{AD404652-4B8C-4B30-A862-D8F3F1FB8D2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moveresierotateWithAdorners", "moveresierotateWithAdorners\moveresierotateWithAdorners.csproj", "{9477C670-D95E-4F6C-9705-AFA3E5CDD4A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{990358A3-1C0D-4114-8595-8CA407EFDB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{990358A3-1C0D-4114-8595-8CA407EFDB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{990358A3-1C0D-4114-8595-8CA407EFDB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{990358A3-1C0D-4114-8595-8CA407EFDB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD404652-4B8C-4B30-A862-D8F3F1FB8D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD404652-4B8C-4B30-A862-D8F3F1FB8D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD404652-4B8C-4B30-A862-D8F3F1FB8D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD404652-4B8C-4B30-A862-D8F3F1FB8D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9477C670-D95E-4F6C-9705-AFA3E5CDD4A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9477C670-D95E-4F6C-9705-AFA3E5CDD4A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9477C670-D95E-4F6C-9705-AFA3E5CDD4A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9477C670-D95E-4F6C-9705-AFA3E5CDD4A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE90F366-0BFA-4E89-B23F-A12CD2C5ADD7}
+	EndGlobalSection
+EndGlobal
